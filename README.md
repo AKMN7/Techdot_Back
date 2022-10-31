@@ -1,0 +1,1 @@
+This is the backend of Techdot (MEVN web app). You can find more information in my other git repo 'Techdot_Front'.
